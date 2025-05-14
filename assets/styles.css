@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.dash-core-components, .dash-html-components {
+    margin: 20px;
+}
+
+.radio-items {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.graph {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
